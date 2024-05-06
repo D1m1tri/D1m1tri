@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm Enzo Dimitri, a student of Information Systems at the University of São Paulo (USP)
+- I have a huge interest in Linux and how things work
+- I'm learning about php and Laravel, and I am planning to get started with React and node
+- I don't use much social media, so my facebook and instagram pages are pretty much stagnated
+- A social media that I use? Lemmy. I'm also trying mastodon, but it's not working that well...
+
+Fell free to reach out, I'm happy to help!
 <!--
 **D1m1tri/D1m1tri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
